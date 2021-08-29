@@ -1,0 +1,15 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    padding: 16px;
+
+    background: #111155;
+    color: #559955;
+
+}
+
+input, textarea {
+    background: #222266;
+    color: #77bb77;
+    outline: none;
+}
